@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+*{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+.main{
+    width: 800px;
+    height: 988px;
+    background: #EEEEEE;
+    margin: 0 auto; 
+    padding-top: 82px; 
+    border: 1px solid rgb(235, 235, 235);
+
+}
+.body{
+    margin-left: 106px;
+    width: 600px;
+    height: 890px;
+    background: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.top{
+    background-color: #37AAE1;
+    width: 600px;
+    height: 64px;
+}
+
+.logo{
+    margin-left: 224;
+    height: 36px;
+    width: 139px;
+    margin-top: 14px;
+}
+
+.info{
+    display: flex;
+}
+
+.avatar{
+    margin-top: 56px;
+    margin-left: 33px;
+    width: 100px;
+    height: 100px;
+}
+
+.infoText{
+    margin-left: 12px;
+    margin-top: 59px;
+    font-size: 13px;
+    color: #232323;
+}
+
+.name{
+    height: 19px;
+    line-height: 16px;
+}
+
+.infoMessage{
+    width: 423px;
+    height: 43px;
+    margin-bottom: 4px;
+    line-height: 15px;
+    letter-spacing: 0.06px;
+    
+}
+
+.regards{
+    height: 18px;
+    letter-spacing: 0.2px;
+    color: #232323;
+    line-height: 15.8px;
+}
+
+.regardsText{
+    width: 422px;
+    height: 55px;
+    letter-spacing: 0.07px;
+    line-height: 18px;
+}
+
+.agentName{
+    color: #3C3C3C;
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 1px solid #37AAE1;
+    color: #37AAE1;
+}
+
+.advertisement{
+    margin-left: 33px;
+    margin-top: 27px;
+    width: 540px;
+    height: 362px;
+}
+
+.bottomBox{
+    margin-left: 33px;
+    margin-top: 12px;
+}
+.address{
+    font-size: 19px;
+    margin-bottom: 12px;
+    color: #232323;
+}
+
+.heads{
+    display: flex;
+    height: 28px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 6px;
+    font-size: 14px;
+
+}
+
+.heading{
+    margin-right: 68px;
+    width: 276px;
+    letter-spacing: 0.14px;
+}
+
+.price{
+    width: 196px;
+    letter-spacing: 0.42px;
+    color: #232323;
+}
+
+.descBox{
+    display: flex;
+    height: 75px;
+    margin-bottom: 6px;
+}
+
+.description{
+    width: 320px;
+    font-size: 13px;
+    margin-right: 28px;
+    color: #232323;
+    line-height: 15.5px;
+}
+
+.contactBox{
+    width: 195px;
+    height: 51px;
+}
+
+.contact{
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.39px;
+    color: #232323;
+}
+
+.agentName{
+    font-size: 12px;
+    color: #232323;
+    letter-spacing: 0.36px;
+}
+
+.agentNum{
+    font-size: 13px;
+    color: #232323;
+    letter-spacing: 0.39px;
+}
+
+.more{
+    margin-left: 33px;
+    width: 165px;
+    height: 42px;
+    background-color: #37AAE1;
+    border: none;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.copyright{
+    color: #8C8C8C;
+
+}
+
+.copy{
+    letter-spacing: 0.11px;
+    margin-left: 93px;
+    text-align: center;
+    font-size: 12px;
+    width: 628px;
+}
+
+.unsubLine{
+    margin-top: 4px;
+    width: 628px;
+    height: 21px;
+    color: #8C8C8C;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 93px;
+}
+
+.unsubscribe{
+    color: #8C8C8C;
+    border-bottom: 1px solid #8C8C8C;
+
+}
